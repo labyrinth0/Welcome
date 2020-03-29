@@ -9,3 +9,5 @@ Gayathri Vellanki - gayathrivellanki - Passionate about Technology.
 Karina Condeixa - KC2016 - Enjoying discovering Machine Learning and motivated by cooperating for the chatbot project.
 
 Taciana Alessandra Gomes Cruz - tacigomess - Interested about Machine learning and NLP.
+
+Aashna Vaid - will love to apply technology for a helpful cause also wants to contribute and learn more through the chatbot project.
